@@ -17,7 +17,7 @@ So there! There is nothing worth knowing about me. Nothing flattering, to be pre
 
 ## Reach out to me
 
-I don't see the need for it - but if you have to, \[\[LinkedIn::https://www.linkedin.com/in/yogirk\]\] is a good place. I don't do much on \[\[Twitter::https://twitter.com/Ranjeeth\]\] other than consuming news/links from interesting people in Cloud , DevOps, Data space - but feel free to DM, just in case. 
+I don't see the need for it - but if you have to, \[\[LinkedIn::https://www.linkedin.com/in/yogirk\]\] is a good place. I don't do much on \[\[Twitter::https://twitter.com/Ranjeeth\]\] other than consuming news/links from interesting - but feel free to DM, just in case. 
 
 
 ***
@@ -26,4 +26,4 @@ I don't see the need for it - but if you have to, \[\[LinkedIn::https://www.link
 
 {:.boxit}
 
-> The design of the website is inspired by multiple sources with the intention of making the website more functional. Having said that, I am not a skilled front-end developer/UI-developer, so I could only come somewhat closer to my inital design that I sketched _(see left or click on this ⊕ icon beside the question above if you are on a mobile device)_, hopefully this will clear why it's structured the way it is. In fact, I had to remove the lab option because of my current inability to design it. That said, I can also safely say that I am improving based on the initial iterations of the website that can be seen here: \[\[Jan-22-2020::https://web.archive.org/web/20200122164405/raghuveer.net\]\], \[\[Apr-13-2020::https://web.archive.org/web/20200413193808/raghuveer.net\]\], \[\[Apr-20-2020::https://web.archive.org/web/20200420172058/raghuveer.net\]\]
+> This website is Jekyll based and is powered by [simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme by [Raghuveer](https://github.com/raghuveerdotnet) which is super cool. I don't know if I will end up using the range of [features](https://simply-jekyll.netlify.app/posts/exploring-the-features-of-simply-jekyll) available on this theme like sidenotes, backlinks, changelogs, wiki-style links etc -  but I loved `Notes` and I intend to use it. Feel free to checkout the theme and use it. 
