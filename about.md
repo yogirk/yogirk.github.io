@@ -17,7 +17,7 @@ So there! There is nothing worth knowing about me. Nothing flattering, to be pre
 
 ## Reach out to me
 
-I don't see the need for it - but if you have to, \[\[LinkedIn::https://www.linkedin.com/in/yogirk\]\] is a good place. I don't do much on \[\[Twitter::https://twitter.com/Ranjeeth\]\] other than consuming news/links from interesting - but feel free to DM, just in case. 
+I don't see the need for it - but if you have to, \[\[LinkedIn::https://www.linkedin.com/in/yogirk\]\] is a good place. I don't do much on \[\[Twitter::https://twitter.com/Ranjeeth\]\] other than consuming news/links from interesting people - but feel free to DM, just in case. 
 
 
 ***
