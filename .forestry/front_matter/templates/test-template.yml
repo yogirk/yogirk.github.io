@@ -13,3 +13,4 @@ fields:
   label: comments
 pages:
 - _posts/2020-09-13-test.md
+- _posts/hello-world.md
