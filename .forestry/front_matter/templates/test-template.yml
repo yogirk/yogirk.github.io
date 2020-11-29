@@ -12,5 +12,4 @@ fields:
   name: comments
   label: comments
 pages:
-- _posts/2020-09-13-test.md
 - _posts/2020-11-29-hello-world.md
